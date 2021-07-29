@@ -1,22 +1,24 @@
-# python_challenge
-Pyband
+# Summary
+  Python scripts were created to analyze financial records from the csv file budget_data.csv and polling votes from csv file election_data.csv which contains 1342711 rows of data.
+  
+## Pyband-Financial analysis with Python
 
-Create a Python script that analyzes the records to calculate each of the following:
+The following were calculated:
 
 The total number of months included in the dataset
 
 The net total amount of "Profit/Losses" over the entire period
 
-Calculate the changes in "Profit/Losses" over the entire period, then find the average of those changes
+The changes in "Profit/Losses" over the entire period and the average of those changes
 
 The greatest increase in profits (date and amount) over the entire period
 
 The greatest decrease in losses (date and amount) over the entire period
 
 
-Pypoll
+## Pypoll-Polling analysis with Python
 
-Create a Python script that analyzes the votes and calculates each of the following:
+The following were calculated:
 
 The total number of votes cast
 
